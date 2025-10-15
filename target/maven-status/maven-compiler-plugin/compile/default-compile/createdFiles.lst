@@ -1,0 +1,4 @@
+parser\IssuerDetector.class
+parser\StatementParser.class
+web\BankParserController.class
+parser\PDFTextExtractor.class
