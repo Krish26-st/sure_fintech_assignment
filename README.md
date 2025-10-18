@@ -75,7 +75,7 @@ bank-statement-parser-ui/
 1. Clone the repository:
 
 `git clone https://github.com/Krish26-st/sure_fintech_assignment.git
-cd bank-statement-parser-ui`
+cd sure_fintech_assignment`
 
 2. Ensure you have Java 17 and Maven installed.
 3. Build the project:
