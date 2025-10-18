@@ -71,20 +71,19 @@ bank-statement-parser-ui/
 ---
 
 ## Installation & Running
+1. Open your Folder.
+2. Clone the repository:
 
-1. Clone the repository:
+`git clone https://github.com/Krish26-st/sure_fintech_assignment.git`
 
-`git clone https://github.com/Krish26-st/sure_fintech_assignment.git
-cd sure_fintech_assignment`
-
-2. Ensure you have Java 17 and Maven installed.
-3. Build the project:
+3. Ensure you have Java 17 and Maven installed.
+4. Build the project:
 `mvn clean install`
-4. Run the Spring Boot application:
+5. Run the Spring Boot application:
 `mvn spring-boot:run`
-5. Open a browser and go to:
+6. Open a browser and go to:
 `http://localhost:8080/`
-6. Upload PDF statements and download the parsed CSV.
+7. Upload PDF statements and download the parsed CSV.
 
 ---
 
